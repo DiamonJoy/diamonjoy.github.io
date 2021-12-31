@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Bin Xu</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu579d01f0eebdc6891b92196ac6b85837_1066125_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Offline OCR System</title>
+      <link>/project/dictpen/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/project/dictpen/</guid>
+      <description>&lt;p&gt;This project demonstrates Youdao&amp;rsquo;s Offline OCR System, including image stitching, text detection and recognition.
+It has been successfully deployed on 
+&lt;a href=&#34;https://smart.youdao.com/dictPenThreeX3s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youdao DictPen Series&lt;/a&gt;, and has been used by more than 1 million users.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Offline Inference Engine</title>
+      <link>/project/offline/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/project/offline/</guid>
+      <description>&lt;p&gt;This project shows Youdao&amp;rsquo;s Offline Inference Engine, which deploys deep models on various devices using self-developed controller based on open source frameworks.
+It has successfully run on all Youdao’s smart hardware, like the 
+&lt;a href=&#34;https://smart.youdao.com/dictPenThreeX3s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youdao DictPen Series&lt;/a&gt;, 
+&lt;a href=&#34;https://smart.youdao.com/superDict&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youdao SuperDict&lt;/a&gt; and 
+&lt;a href=&#34;https://smart.youdao.com/transThree&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youdao Translator&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finger Point Reading Solution</title>
+      <link>/project/finger/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/finger/</guid>
+      <description>&lt;p&gt;This project shows Youdao’s pioneering Finger Point Reading Solution, which has filled the gap between gesture interaction and learning applications, like word search, translation and question search.
+It has been run on 
+&lt;a href=&#34;https://ai.youdao.com/ai-hardware.s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youdao AI Cloud&lt;/a&gt; and 
+&lt;a href=&#34;https://www.eebbk.com/html/pc/products/sswei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBK S5 learning tablet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Font Retrieval and OCR System</title>
+      <link>/project/aliyun/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/aliyun/</guid>
+      <description>&lt;p&gt;This project showcases two projects during my internship in Aliyun.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

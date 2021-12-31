@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiajun Shen | Bin Xu</title>
+    <link>/author/jiajun-shen/</link>
+      <atom:link href="/author/jiajun-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiajun Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu579d01f0eebdc6891b92196ac6b85837_1066125_512x512_fill_lanczos_center_3.png</url>
+      <title>Jiajun Shen</title>
+      <link>/author/jiajun-shen/</link>
+    </image>
+    
+    <item>
+      <title>A low-cost tele-presence wheelchair system</title>
+      <link>/publication/iros2016_wheelchair/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/iros2016_wheelchair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
