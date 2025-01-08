@@ -5,44 +5,12 @@
     <link>/author/bin-xu/</link>
       <atom:link href="/author/bin-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu579d01f0eebdc6891b92196ac6b85837_1066125_512x512_fill_lanczos_center_3.png</url>
       <title>Bin Xu</title>
       <link>/author/bin-xu/</link>
     </image>
-    
-    <item>
-      <title>Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots</title>
-      <link>/publication/ijsr2022_fisheys/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/ijsr2022_fisheys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TIUI: Touching Live Video for Telepresence Operation</title>
-      <link>/publication/tmc2021_tiui/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/tmc2021_tiui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wide-angle image stitching using multi-homography warping</title>
-      <link>/publication/icip2017_stitching/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/icip2017_stitching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A low-cost tele-presence wheelchair system</title>
-      <link>/publication/iros2016_wheelchair/</link>
-      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/iros2016_wheelchair/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
